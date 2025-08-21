@@ -122,4 +122,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - [Hugging Face](https://huggingface.co) for hosting models and providing access to state-of-the-art NLP models.
 
 
-Made with ❤️ by [Ahmad Raza](https://www.linkedin.com/in/ahmadkhushi).
