@@ -1,4 +1,5 @@
 # 📄 PDF Query Application
+<img width="1468" height="835" alt="mainImage" src="https://github.com/user-attachments/assets/86422635-e2dd-4787-b8a0-f3554bd78ed5" />
 
 This Streamlit application allows users to upload a PDF document and ask questions about its content using an AI model. The application utilizes the Groq API and the LLaMA model from Hugging Face to 
 provide answers based on the extracted text from the PDF.
